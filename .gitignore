@@ -3,5 +3,4 @@ target/
 .git/
 .gitmodules
 .vscode/
-Cargo.lock
 .DS_Store
